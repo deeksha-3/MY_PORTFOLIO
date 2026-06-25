@@ -5,7 +5,6 @@ import { ArrowRight, MapPin, Terminal } from 'lucide-react';
 export default function Hero() {
   const roles = [
     'AI & ML Enthusiast',
-    'Machine Learning Developer',
     'Full Stack Learner',
     'Aspiring Software Engineer'
   ];
